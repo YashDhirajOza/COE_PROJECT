@@ -1,6 +1,8 @@
 Problem Statement
 
-The cement industry operates with thin margins where logistics costs constitute 30-35% of the total delivered cost. Optimizing the flow of clinker from Integrated Units (IUs) to Grinding Units (GUs) is hindered by complex dependencies, including Minimum Shipment Batch Quantities (SBQ) and integer transport constraints, which render manual planning inefficient.
-+1
-
-Crucially, current deterministic planning models fail to account for significant demand volatility, where monthly fluctuations can exceed 50% due to seasonality and market shocks. Ignoring this uncertainty forces planners into reactive measures like expensive emergency shipments or results in costly stockouts. Furthermore, existing models overlook environmental sustainability, often prioritizing high-emission road transport over lower-carbon rail options to save marginal time. This creates a critical operational "trilemma" of spiraling logistics costs, supply chain fragility, and excessive carbon emissions, necessitating a robust, stochastic approach to simultaneously optimize for profitability, resilience, and sustainability
+The cement industry operates with thin margins where logistics costs constitute 30-35% of the total delivered cost. 
+Optimizing the flow of clinker from Integrated Units (IUs) to Grinding Units (GUs) 
+is hindered by complex dependencies, including Minimum Shipment Batch Quantities (SBQ) and integer transport constraints, which render manual planning inefficient.
+Crucially, current deterministic planning models fail to account for significant demand volatility, where monthly fluctuations can exceed 50% due to seasonality and market shocks. 
+Ignoring this uncertainty forces planners into reactive measures like expensive emergency shipments or results in costly stockouts. Furthermore, existing models overlook environmental sustainability, often prioritizing high-emission road transport over lower-carbon rail options to save marginal time. 
+This creates a critical operational "trilemma" of spiraling logistics costs, supply chain fragility, and excessive carbon emissions, necessitating a robust, stochastic approach to simultaneously optimize for profitability, resilience, and sustainability
